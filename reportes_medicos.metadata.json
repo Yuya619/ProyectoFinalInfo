@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"ad59e7b79d6f47908e543bfb35a04f68","collectionName":"reportes_medicos","type":"collection"}
